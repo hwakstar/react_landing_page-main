@@ -2,11 +2,11 @@
 
 ### <a href="https://wonderfullandingpage.github.io/mylandingpage/">LIVE DEMO</a> 
 
-![](https://github.com/hwakstar/react_landing_page-main/tree/master/imgs/01.jpg?raw=true)
-![](https://github.com/hwakstar/react_landing_page-main/tree/master/imgs/02.jpg?raw=true)
+![](https://github.com/wonderfullandingpage/mylandingpage/blob/master/imgs/01.jpg?raw=true)
+![](https://github.com/wonderfullandingpage/mylandingpage/blob/master/imgs/02.jpg?raw=true)
 
 ## Description
-This is a ReactJS based landing page template, fit for a startup company/service with a one page view.All 'visual' data can be easily modified by changing the data.json file. The project fork is from Free-CSS.com Thanks to the author for a great project.
+This is a ReactJS based landing page template, fit for a startup company/service with a one page view.All 'visual' data can be easily modified by changing the data.json file. The project fork is from https://github.com/issaafalkattan/React-Landing-Page-Template. Thanks to the author for a great project.
 
 ## Make it Yours!
 ### 1. Preps
